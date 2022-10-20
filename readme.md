@@ -1,3 +1,6 @@
+
+ [![Stars](https://img.shields.io/github/stars/SergeyTukalskiy/ThirdGradeProblem)](https://github.com/SergeyTukalskiy/ThirdGradeProblem)
+
 # Грандиозная задача для третьего класса :sleepy:
 
 **Формулировка:** Требуется найти количество способов разменять купюру в 1000 рублей купюрами по 50, 100, 200 и 500 рублей.
@@ -17,3 +20,4 @@
  [Маме](https://vk.com/alfira233) вышеуказанных братьев - за помощь в решении
  
  Сестре - за фарш
+ 
